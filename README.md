@@ -2,35 +2,27 @@
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
-- [Prerequisites](#prerequisites)
-- [Intro CS](#intro-cs)
-  - [Introduction to Programming](#introduction-to-programming)
-  - [Introduction to Computer Science](#introduction-to-computer-science)
-- [Core CS](#core-cs)
-  - [Core programming](#core-programming)
-  - [Core math](#core-math)
-  - [CS Tools](#cs-tools)
-  - [Core systems](#core-systems)
-  - [Core theory](#core-theory)
-  - [Core security](#core-security)
-  - [Core applications](#core-applications)
-  - [Core ethics](#core-ethics)
-- [Advanced CS](#advanced-cs)
-  - [Advanced programming](#advanced-programming)
-  - [Advanced systems](#advanced-systems)
-  - [Advanced theory](#advanced-theory)
-  - [Advanced information security](#advanced-information-security)
-  - [Advanced math](#advanced-math)
-- [Final project](#final-project)
+- [ ] [Intro CS](#intro-cs)
+  - [ ] [Introduction to Programming](#introduction-to-programming)
+  - [ ] [Introduction to Computer Science](#introduction-to-computer-science)
+- [ ] [Core CS](#core-cs)
+  - [ ] [Core programming](#core-programming)
+  - [ ] [Core math](#core-math)
+  - [ ] [CS Tools](#cs-tools)
+  - [ ] [Core systems](#core-systems)
+  - [ ] [Core theory](#core-theory)
+  - [ ] [Core security](#core-security)
+  - [ ] [Core applications](#core-applications)
+  - [ ] [Core ethics](#core-ethics)
+- [ ] [Advanced CS](#advanced-cs)
+  - [ ] [Advanced programming](#advanced-programming)
+  - [ ] [Advanced systems](#advanced-systems)
+  - [ ] [Advanced theory](#advanced-theory)
+  - [ ] [Advanced information security](#advanced-information-security)
+  - [ ] [Advanced math](#advanced-math)
+- [ ] [Final project](#final-project)
 
 ---
-
-## Prerequisites
-
-- [Core CS](#core-cs) assumes the student has already taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
-- [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
-and is knowledgeable enough now to decide which electives to take.
-- Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
 
 ## -Intro CS-
 
